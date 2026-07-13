@@ -1,1 +1,2 @@
-# llm-graph-rule-mining
+# LLM-Graph-Rule-Mining
+
