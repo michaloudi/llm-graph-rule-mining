@@ -33,4 +33,24 @@ The generated rules are translated into Cypher queries and evaluated against Neo
 - Experiments on:
   - Twitter property graph
   - Movie property graph
+## Architecture
+
+```text
+Neo4j Property Graph
+        ↓
+Graph Encoder
+        ↓
+JSON/Text Representation
+        ↓
+Prompt Construction
+        ↓
+GPT-4
+        ↓
+Candidate Consistency Rules
+        ↓
+Cypher Query Generator
+        ↓
+Neo4j Rule Validation
+        ↓
+Support · Coverage · Confidence
 - Visualisation of rule-ranking results
