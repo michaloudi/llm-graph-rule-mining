@@ -89,79 +89,45 @@ Evaluate every generated rule using:
 ### 9. Rank and Analyse the Rules
 Rank the inferred consistency rules according to the computed metrics and analyse their quality and usefulness.
 
-## Project Structure
 
-```text
-llm-graph-rule-mining/
-│
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── .gitignore
-│
-├── data/
-│   ├── twitter/
-│   └── movies/
-│
-├── prompts/
-│   ├── zero_shot/
-│   ├── few_shot/
-│   └── cypher_generation/
-│
-├── src/
-│   ├── graph_loader.py
-│   ├── graph_encoder.py
-│   ├── prompt_builder.py
-│   ├── llm_client.py
-│   ├── rule_parser.py
-│   └── cypher_generator.py
-│
-├── evaluation/
-│   ├── support.py
-│   ├── coverage.py
-│   ├── confidence.py
-│   └── rule_ranking.py
-│
-├── results/
-│   ├── twitter/
-│   ├── movies/
-│   └── summary_tables/
-│
-├── figures/
-│
-├── notebooks/
-│   └── demo.ipynb
-│
-└── paper/
-    └── thesis.pdf
-```
+## Datasets
 
-### Directory Description
+The experiments were conducted on two property graph datasets with different sizes and structural characteristics: a Twitter network graph and a Movie graph.
 
-- **`data/`**  
-  Contains the graph datasets, graph exports, schemas, and sample files used in the experiments.
+### Twitter Network Graph
 
-- **`prompts/`**  
-  Contains the zero-shot, few-shot, and Cypher-generation prompt templates.
+The Twitter property graph represents social-media entities and interactions.
 
-- **`src/`**  
-  Contains the main Python implementation for loading graphs, encoding graph structures, constructing prompts, querying the LLM, parsing generated rules, and producing Cypher queries.
+- **Nodes:** 43,325
+- **Relationships:** 57,896
+- **Main node types:** User, Tweet, Hashtag, Link, and Source
+- **Main relationship types:** POSTS, FOLLOWS, MENTIONS, TAGS, CONTAINS, USING, RETWEETS, and REPLY_TO
 
-- **`evaluation/`**  
-  Contains the code used to calculate Support, Coverage, Confidence, and rule-ranking results.
+The purpose of this dataset is to investigate whether an LLM can infer structural and semantic consistency rules from a relatively large and heterogeneous social-network graph.
 
-- **`results/`**  
-  Stores generated consistency rules, Cypher queries, metric values, and experiment outputs for the Twitter and Movie datasets.
+Examples of rules include:
 
-- **`figures/`**  
-  Contains architecture diagrams, graph visualisations, and evaluation charts.
+- Every Tweet should be posted by an existing User.
+- Every Tweet should have a unique identifier.
+- A User should not follow themselves.
+- A Tweet mentioning a User should contain a corresponding `MENTIONS` relationship.
 
-- **`notebooks/`**  
-  Contains demonstration and exploratory notebooks.
+### Movie Graph
 
-- **`paper/`**  
-  Contains the thesis report or a future paper version of the project.
+The Movie property graph represents movies, people, professional roles, reviews, and social relationships.
 
-### 10. Report the Results
-Present the generated rules, Cypher queries, evaluation metrics, tables and visualisations.
- results
+- **Nodes:** 171
+- **Relationships:** 253
+- **Main node types:** Person and Movie
+- **Main relationship types:** ACTED_IN, DIRECTED, PRODUCED, WROTE, REVIEWED, and FOLLOWS
+
+The purpose of this dataset is to examine whether an LLM can infer logical, structural, uniqueness, and temporal constraints from a smaller domain-specific graph.
+
+Examples of rules include:
+
+- A Movie should be associated with at least one Person.
+- A Person's birth year should precede the release year of a Movie in which they acted.
+- A Person should have only one birth year.
+- A Movie should have a consistent title and release year.
+
+
