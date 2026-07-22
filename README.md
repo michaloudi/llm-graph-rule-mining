@@ -89,6 +89,79 @@ Evaluate every generated rule using:
 ### 9. Rank and Analyse the Rules
 Rank the inferred consistency rules according to the computed metrics and analyse their quality and usefulness.
 
+## Project Structure
+
+```text
+llm-graph-rule-mining/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+│
+├── data/
+│   ├── twitter/
+│   └── movies/
+│
+├── prompts/
+│   ├── zero_shot/
+│   ├── few_shot/
+│   └── cypher_generation/
+│
+├── src/
+│   ├── graph_loader.py
+│   ├── graph_encoder.py
+│   ├── prompt_builder.py
+│   ├── llm_client.py
+│   ├── rule_parser.py
+│   └── cypher_generator.py
+│
+├── evaluation/
+│   ├── support.py
+│   ├── coverage.py
+│   ├── confidence.py
+│   └── rule_ranking.py
+│
+├── results/
+│   ├── twitter/
+│   ├── movies/
+│   └── summary_tables/
+│
+├── figures/
+│
+├── notebooks/
+│   └── demo.ipynb
+│
+└── paper/
+    └── thesis.pdf
+```
+
+### Directory Description
+
+- **`data/`**  
+  Contains the graph datasets, graph exports, schemas, and sample files used in the experiments.
+
+- **`prompts/`**  
+  Contains the zero-shot, few-shot, and Cypher-generation prompt templates.
+
+- **`src/`**  
+  Contains the main Python implementation for loading graphs, encoding graph structures, constructing prompts, querying the LLM, parsing generated rules, and producing Cypher queries.
+
+- **`evaluation/`**  
+  Contains the code used to calculate Support, Coverage, Confidence, and rule-ranking results.
+
+- **`results/`**  
+  Stores generated consistency rules, Cypher queries, metric values, and experiment outputs for the Twitter and Movie datasets.
+
+- **`figures/`**  
+  Contains architecture diagrams, graph visualisations, and evaluation charts.
+
+- **`notebooks/`**  
+  Contains demonstration and exploratory notebooks.
+
+- **`paper/`**  
+  Contains the thesis report or a future paper version of the project.
+
 ### 10. Report the Results
 Present the generated rules, Cypher queries, evaluation metrics, tables and visualisations.
  results
