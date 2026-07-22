@@ -53,4 +53,42 @@ Cypher Query Generator
 Neo4j Rule Validation
         ↓
 Support · Coverage · Confidence
-- Visualisation of rule-ranking results
+- Visualisation of rule-ranking
+
+## Pipeline
+
+The proposed framework follows the pipeline below:
+
+### 1. Load the Property Graph
+Load the property graph from the Neo4j database, including node labels, relationship types, node properties, and graph structure.
+
+### 2. Encode the Graph
+Transform the graph schema and graph instances into a structured textual representation that can be processed by a Large Language Model.
+
+### 3. Construct the Prompt
+Combine the encoded graph with a carefully designed prompt (Zero-shot or Few-shot) requesting the generation of graph consistency rules.
+
+### 4. Query the Large Language Model
+Submit the prompt to GPT-4 and obtain candidate consistency rules expressed in natural language.
+
+### 5. Extract Candidate Rules
+Parse the LLM response and collect all generated consistency rules.
+
+### 6. Translate Rules into Cypher
+Convert each natural-language consistency rule into an executable Cypher query.
+
+### 7. Validate Rules on Neo4j
+Execute the generated Cypher queries against the original graph database to identify valid and violating graph instances.
+
+### 8. Compute Evaluation Metrics
+Evaluate every generated rule using:
+- Support
+- Coverage
+- Confidence
+
+### 9. Rank and Analyse the Rules
+Rank the inferred consistency rules according to the computed metrics and analyse their quality and usefulness.
+
+### 10. Report the Results
+Present the generated rules, Cypher queries, evaluation metrics, tables and visualisations.
+ results
