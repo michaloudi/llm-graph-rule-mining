@@ -46,7 +46,7 @@ Prompt Construction
         ↓
 GPT-4
         ↓
-Candidate Consistency Rules
+Consistency Rules
         ↓
 Cypher Query Generator
         ↓
