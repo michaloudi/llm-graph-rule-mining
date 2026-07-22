@@ -54,7 +54,7 @@ Neo4j Rule Validation
         ↓
 Support · Coverage · Confidence
 - Visualisation of rule-ranking
-
+```
 ## Pipeline
 
 The proposed framework follows the pipeline below:
@@ -69,7 +69,7 @@ Transform the graph schema and graph instances into a structured textual represe
 Combine the encoded graph with a carefully designed prompt (Zero-shot or Few-shot) requesting the generation of graph consistency rules.
 
 ### 4. Query the Large Language Model
-Submit the prompt to GPT-4 and obtain candidate consistency rules expressed in natural language.
+Submit the prompt to GPT-4 and obtain consistency rules expressed in natural language.
 
 ### 5. Extract Candidate Rules
 Parse the LLM response and collect all generated consistency rules.
