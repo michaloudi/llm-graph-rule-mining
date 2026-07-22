@@ -2,7 +2,6 @@
 
 Applying LLMs to Infer Consistency Rules in Property Graph Data.
 
-# LLM Graph Rule Mining
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-green)
