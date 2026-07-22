@@ -17,3 +17,20 @@ Property graph databases are widely used to represent complex and interconnected
 This repository uses Large Language Models, specifically GPT-4, to infer consistency rules from property graph schemas and graph instances. Graph structures are transformed into textual representations that can be processed by the language model through zero-shot and few-shot prompting.
 
 The generated rules are translated into Cypher queries and evaluated against Neo4j graph databases using three ranking measures: Support, Coverage, and Confidence. Experiments are conducted on Twitter and Movie property graph datasets.
+
+## Features
+
+- Graph-to-text encoding of property graph schemas and database instances
+- Zero-shot prompting for consistency-rule generation
+- Few-shot prompting with representative rule examples
+- Automatic generation of consistency rules using GPT-4
+- Automatic translation of natural-language rules into Cypher queries
+- Validation of generated rules against Neo4j graph databases
+- Rule evaluation using:
+  - Support
+  - Coverage
+  - Confidence
+- Experiments on:
+  - Twitter property graph
+  - Movie property graph
+- Visualisation of rule-ranking results
