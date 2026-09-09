@@ -1,0 +1,17 @@
+rule,support,coverage,confidence
+Text & Date,2146,0.8915,0.8915
+Unique ID,2407,1.0,1.0
+URL Edge,1628,0.9565,0.9565
+User Post,2338,0.9713,0.9713
+Mention User Edge,1550,0.9987,0.9987
+Hashtag Edge,823,0.9963,0.9963
+Text Hashtag,425,0.2846,0.2846
+Follows Edge,44630,1.0,1.0
+Unique Username,38986,1.0,1.0
+Single Follow,44630,1.0,1.0
+Valid Source,2146,0.8915,0.8915
+Retweet Reference,267,0.9962,0.9962
+Chronological Order,398,0.7896,0.7896
+Retweet Only,0,0.0,0.0
+Mention Contains Username,3302,0.9546,0.9546
+Reply to Relationship,504,0.2093,0.2093

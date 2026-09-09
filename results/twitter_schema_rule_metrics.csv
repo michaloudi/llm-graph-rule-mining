@@ -1,0 +1,20 @@
+rule,support,coverage,confidence
+Valid Sources,2146,0.8915,0.8915
+Mentioning Rule,3459,1.0,1.0
+Reciprocal Following,6144,0.178,0.178
+Valid URL in Link,1628,0.6763,0.6763
+Users cannot Follow Themselves,38986,1.0,1.0
+Following the Author,842,0.5432,0.5432
+Unique Tweet Copy,2317,0.9926,0.9926
+Reply Rule,365,0.7242,0.7242
+Tweet Origin Rule,2338,0.9713,0.9713
+Retweeting Rule,258,0.9626,0.9626
+Reply to Existing Tweets,398,0.1653,0.1653
+Retweet to Existing Tweet,75,0.0311,0.0311
+No Self Retweet/Reply,2407,1.0,1.0
+Hashtag Rule,1493,1.0,1.0
+Retweet Following Rule,179,0.6679,0.6679
+Direct Messaging Rule,0,0.0,0.0
+Blocking Rule,0,0.0,0.0
+Accurate Interaction Count Rule,0,0.0,0.0
+Deleted User Tweet Management Rule,0,0.0,0.0
