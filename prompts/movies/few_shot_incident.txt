@@ -1,0 +1,10 @@
+If a person acts in a movie, the movie's release year should be later than the birth year of the person.
+An example of this is:
+Person name Alice born 1993 acted in movie title Paradise released 2023
+
+If a person directed a movie, they cannot act in the same movie.
+An example of this is:
+Person name Alice directed movie title Paradise.
+Person name Alice is not acted in movie title Paradise.
+
+Based on these examples, can you generate some other relevant consistency rules that could be detected in the relationships and interactions within this Movies graph?

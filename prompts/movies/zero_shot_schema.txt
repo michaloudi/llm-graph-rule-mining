@@ -1,0 +1,5 @@
+The following is a description of a movies graph schema:
+
+{incident_schema}
+
+Can you generate some consistency rules that could be detected in the relationships and interactions within this schema?

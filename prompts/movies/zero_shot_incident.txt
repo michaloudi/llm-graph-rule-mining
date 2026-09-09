@@ -1,0 +1,4 @@
+Encoded graph:
+{encoded_graph}
+
+Can you generate some consistency rules that could be detected in the relationships and interactions within this graph?

@@ -1,0 +1,9 @@
+A Movie must have at least one Person associated with it in the roles of director, actor, producer, or writer. If a Movie does not have at least one of these associations, then it is considered inconsistent.
+
+A Person can't review a Movie in which they have acted, directed, produced, or wrote. This rule ensures the impartiality of the review.
+
+A Person can't follow themselves. This rule ensures sensible social interaction.
+
+A Person can't act, direct, produce, or write a Movie before their date of birth.
+
+Based on these examples, can you generate some other relevant consistency rules that could be detected in the relationships and interactions within this Movies graph?
