@@ -1,0 +1,95 @@
+{
+    "nodes": [
+        {
+            "id": "Me",
+            "type": "Person"
+        },
+        {
+            "id": "User",
+            "type": "Person"
+        },
+        {
+            "id": "Tweet",
+            "type": "Content"
+        },
+        {
+            "id": "Link",
+            "type": "Content"
+        },
+        {
+            "id": "Hashtag",
+            "type": "Content"
+        },
+        {
+            "id": "Source",
+            "type": "Content"
+        }
+    ],
+    "edges": [
+        {
+            "source": "Me",
+            "target": "Me",
+            "relation": "FOLLOWS"
+        },
+        {
+            "source": "User",
+            "target": "User",
+            "relation": "FOLLOWS"
+        },
+        {
+            "source": "Me",
+            "target": "User",
+            "relation": "FOLLOWS"
+        },
+        {
+            "source": "User",
+            "target": "Me",
+            "relation": "FOLLOWS"
+        },
+        {
+            "source": "Me",
+            "target": "Tweet",
+            "relation": "POSTS"
+        },
+        {
+            "source": "User",
+            "target": "Tweet",
+            "relation": "POSTS"
+        },
+        {
+            "source": "Tweet",
+            "target": "Me",
+            "relation": "MENTIONS"
+        },
+        {
+            "source": "Tweet",
+            "target": "User",
+            "relation": "MENTIONS"
+        },
+        {
+            "source": "Tweet",
+            "target": "Tweet",
+            "relation": "RETWEETS"
+        },
+        {
+            "source": "Tweet",
+            "target": "Tweet",
+            "relation": "REPLY_TO"
+        },
+        {
+            "source": "Tweet",
+            "target": "Link",
+            "relation": "CONTAINS"
+        },
+        {
+            "source": "Tweet",
+            "target": "Hashtag",
+            "relation": "TAGS"
+        },
+        {
+            "source": "Tweet",
+            "target": "Source",
+            "relation": "USING"
+        }
+    ]
+}

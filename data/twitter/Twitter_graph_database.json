@@ -1,0 +1,3403 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Me",
+        "User"
+      ],
+      "properties": {
+        "followers": 34507,
+        "screen_name": "neo4j",
+        "following": 10124,
+        "name": "Neo4j",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183755273753767936/vSV_IPTs_normal.jpg",
+        "location": "Graphs Are Everywhere",
+        "betweenness": 349332601.0,
+        "url": "https://t.co/JSIaZFJEaE"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 2617355,
+        "screen_name": "NASAPersevere",
+        "following": 45,
+        "name": "NASA's Perseverance Mars Rover",
+        "statuses": 512,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235636280165203974/6YjG6kTC_normal.jpg",
+        "location": "Jezero Crater, Mars",
+        "betweenness": 0.0,
+        "url": "https://t.co/GpTOmL7zGl"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 0,
+        "screen_name": "pranitahakim1",
+        "following": 0,
+        "name": "pranitahakim",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1370306070845911046/VQcQPkp3_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 35,
+        "screen_name": "galeister",
+        "following": 35,
+        "name": "Galeister",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2566078294/rkk9kwf3ubbt4bn2zcn2_normal.jpeg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 71,
+        "screen_name": "rhema_beth",
+        "following": 71,
+        "name": "Amosun BethRhema",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252376946673020931/wOPPVldg_normal.jpg",
+        "location": "Nigeria",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 170,
+        "screen_name": "AngeliusAngel",
+        "following": 430,
+        "name": "Marvello Oni",
+        "statuses": 361,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/462497284513472512/d6U60hbR_normal.png",
+        "location": "Jakarta",
+        "betweenness": 0.0,
+        "url": "http://t.co/1uDSvHVkMK"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 9,
+        "screen_name": "michibertoldi",
+        "following": 9,
+        "name": "Michele Bertoldi",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254857141736833026/BmoS_96l_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 252,
+        "screen_name": "plotmath",
+        "following": 252,
+        "name": "muhammad ikbal",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362546967046332418/V2ugZBoP_normal.jpg",
+        "location": "Indonesia",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 647,
+        "screen_name": "kaynairv",
+        "following": 647,
+        "name": "Kesavan Nair (Kay)",
+        "location": "London, England",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328854630978244610/Ilnrt6X3_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1025,
+        "screen_name": "jamesejr7",
+        "following": 1025,
+        "name": "James Espinosa",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176758665392476160/Fi2VQzDy_normal.jpg",
+        "location": "San Francisco, CA",
+        "betweenness": 0.0,
+        "url": "https://t.co/Rl6xFA2hB9"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1141,
+        "screen_name": "amanvincent",
+        "following": 1141,
+        "name": "Aman Vincent💡",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1367011161825185796/T4q6r5Zc_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 50,
+        "screen_name": "BytesByHolly",
+        "following": 50,
+        "name": "Holly",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318406319209091073/xAQPQ1Bv_normal.jpg",
+        "location": "Arlington, VA",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 104,
+        "screen_name": "gunerd_b",
+        "following": 104,
+        "name": "vou seguir toda a humanidade",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318341265470214144/AbuFbHyq_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 576,
+        "screen_name": "njdequeiros",
+        "following": 576,
+        "name": "Natalino Jorge de Queiros",
+        "location": "Digital Education | BR-PT-NL",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350452717869821954/R2jOKGwk_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/rwMid4IBZW"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 113,
+        "screen_name": "emilianogomez33",
+        "following": 113,
+        "name": "Emiliano Gómez",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600806449867038723/slJKemtA_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3,
+        "screen_name": "pchaturvedi512",
+        "following": 3,
+        "name": "Prashant Chaturvedi",
+        "location": "Toronto, Ontario",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 61,
+        "screen_name": "mendonca2709",
+        "following": 61,
+        "name": "Marcelo Mendonça",
+        "location": "Goiânia, Brazil",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972477224397037569/ykoOCghe_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 5,
+        "screen_name": "AndreaS35872269",
+        "following": 5,
+        "name": "Andrea Salvi",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 124,
+        "screen_name": "ahmed7emedan",
+        "following": 124,
+        "name": "Ahmed Hemedan",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369501572460339200/4XSas2Y6_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1,
+        "screen_name": "28_fireball",
+        "following": 1,
+        "name": "Fireball 28",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1326582031409614850/u2BLiY6-_normal.jpg",
+        "location": "Senderwood,South Africa",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 156,
+        "screen_name": "DevOnAJourney",
+        "following": 156,
+        "name": "Ismael Velasco",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345514525919993862/IaWKnVUT_normal.jpg",
+        "location": "Newport, Wales",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 12,
+        "screen_name": "joshuat28934950",
+        "following": 12,
+        "name": "Joshua_tcode",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288885025715490818/GnTp5AmS_normal.jpg",
+        "location": "Lagos, Nigeria",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 421,
+        "screen_name": "jakubbares",
+        "following": 421,
+        "name": "Jakub Bares",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1355627478665080834/Cv2yXHVj_normal.jpg",
+        "location": "Prague",
+        "betweenness": 0.0,
+        "url": "https://t.co/yTE6WiFGid"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 101,
+        "screen_name": "TifannyJoana",
+        "following": 101,
+        "name": "TRISTE CHATEADA CHORANDO MAGOADA NOT HAPPY!!",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328089139938537480/PHAtqLPl_normal.jpg",
+        "location": "Distrito Federal ",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 12,
+        "screen_name": "kbeheraj",
+        "following": 57,
+        "name": "Kavya Beheraj",
+        "statuses": 14,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1524167705/image_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 96,
+        "screen_name": "mariapinadc",
+        "following": 96,
+        "name": "Maria Pina",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/934726013753454592/oOYFbpxi_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 6362,
+        "screen_name": "Carahsoft",
+        "following": 6362,
+        "name": "Carahsoft",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129004575372009472/8-X01JHe_normal.png",
+        "location": "Reston, Virginia",
+        "betweenness": 0.0,
+        "url": "https://t.co/ac5MIlpwmF"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 98,
+        "screen_name": "Steve_A_Miller",
+        "following": 98,
+        "name": "Steve Miller",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242086153387466753/a4kUOV0c_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 10,
+        "screen_name": "Catgeo39",
+        "following": 10,
+        "name": "Catgeo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1301969617699643393/KkTaWXg0_normal.jpg",
+        "location": "",
+        "betweenness": 0.0,
+        "url": "https://t.co/3X7JlJrYXj"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 63,
+        "screen_name": "krishvoor",
+        "following": 134,
+        "name": "Harsha",
+        "statuses": 217,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174348464114651136/1W86ZdQW_normal.jpg",
+        "location": "Bengaluru, Karnataka",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 30,
+        "screen_name": "lei_lao",
+        "following": 30,
+        "name": "B37hHarm0n",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359134649776103424/GMnZUI7r_normal.jpg",
+        "location": "Home Office",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 8,
+        "screen_name": "renednmorais",
+        "following": 8,
+        "name": "Renê Morais",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315512532291981313/DtfB71vK_normal.jpg",
+        "location": "Pernambuco, Brazil",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1268,
+        "screen_name": "LahaulSeth",
+        "following": 1268,
+        "name": "Lahaul Seth",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368492688941539331/V3QvD7E7_normal.jpg",
+        "location": "Bengaluru, India",
+        "betweenness": 0.0,
+        "url": "https://t.co/U4tvZCrSs9"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 46,
+        "screen_name": "ratneshit52",
+        "following": 46,
+        "name": "Ratnesh Shukla",
+        "location": "Pune",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1270317844723449856/ia7w-m0w_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 503,
+        "screen_name": "mauritsrijk",
+        "following": 503,
+        "name": "Maurits Rijk",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/374002996/maurits-128_normal.jpg",
+        "location": " Olmenlaan 46-148 1404 Bussum",
+        "betweenness": 0.0,
+        "url": "http://t.co/dGViqHG4dH"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 92,
+        "screen_name": "jmoose_oh",
+        "following": 92,
+        "name": "Johnnie",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108830294583459840/M43MDUEt_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 5,
+        "screen_name": "FawadAw28979043",
+        "following": 5,
+        "name": "Fawad Awan",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 242,
+        "screen_name": "CassCarothers",
+        "following": 242,
+        "name": "Cassandra Carothers",
+        "location": "San Francisco Bay Area",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248399520267784194/jYe916ZT_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/Dmk70OHbCA"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 291,
+        "screen_name": "ALTESPARTA",
+        "following": 291,
+        "name": "Alberto j Gonzalez M",
+        "location": "Nueva Esparta, Venezuela",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231224398784483336/Zs0alNpX_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/1l1LTPojoG"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 33,
+        "screen_name": "Tshpzn2",
+        "following": 33,
+        "name": "Tshpzn",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 63,
+        "screen_name": "ManuOyondi",
+        "following": 63,
+        "name": "Immanuel Oyondi",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044217394313482241/jTp7il25_normal.jpg",
+        "location": "nyeri",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 47,
+        "screen_name": "codeprinz",
+        "following": 47,
+        "name": "Anyaoha Prince",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1364472910312857600/cKeB8nXu_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 66,
+        "screen_name": "underwaytrying",
+        "following": 66,
+        "name": "Stanley Bishop",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239336253268430849/-gLIxCpm_normal.jpg",
+        "location": "Venice Beach",
+        "betweenness": 0.0,
+        "url": "https://t.co/EkQdl0OgVB"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3,
+        "screen_name": "Cosmodeethatsme",
+        "following": 3,
+        "name": "Theresa Bradley",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 2,
+        "screen_name": "cisdur7",
+        "following": 2,
+        "name": "cisdur7#e",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 64,
+        "screen_name": "razadi",
+        "following": 64,
+        "name": "Rulo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277658392945975296/5EIib9bM_normal.jpg",
+        "location": "México",
+        "betweenness": 0.0,
+        "url": "https://t.co/CobM6Fg73o"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3,
+        "screen_name": "IgoriskoIgor",
+        "following": 3,
+        "name": "Igorisko",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 52,
+        "screen_name": "ericbrow",
+        "following": 52,
+        "name": "ericbrow",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330911629635104769/ooD5EOxQ_normal.jpg",
+        "location": "Missouri, USA",
+        "betweenness": 0.0,
+        "url": "https://t.co/yttr09G2vw"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 61,
+        "screen_name": "rafaraleva",
+        "following": 61,
+        "name": "Rafael Rivas",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/767764468168142851/rcUkvWGn_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 280,
+        "screen_name": "muthu167",
+        "following": 280,
+        "name": "Muthu Prakash",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1341219400997765121/uvk1_DqX_normal.jpg",
+        "location": "Danbury CT",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 12,
+        "screen_name": "ZeljkoPredjesk1",
+        "following": 12,
+        "name": "Zeljko Predjeskovic",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331762027740753921/9jogDIQk_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1241,
+        "screen_name": "legoboku",
+        "following": 1241,
+        "name": "Yohei 🇸🇬",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344983895876411392/9Wa2KiQj_normal.jpg",
+        "location": "Singapore",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 36,
+        "screen_name": "Berihu_",
+        "following": 36,
+        "name": "Berihu",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238163624256049154/qvmRPPwd_normal.jpg",
+        "location": "Ingelmunster, België",
+        "betweenness": 0.0,
+        "url": "https://t.co/kGVcsx1NMg"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 38,
+        "screen_name": "serhatdev",
+        "following": 38,
+        "name": "Serhat Engin",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1321093429712068616/pTDLzQF__normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 53,
+        "screen_name": "shrjamal",
+        "following": 53,
+        "name": "ShrJamal 💙",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362155036223172617/QKzR1nOt_normal.jpg",
+        "location": "Morocco",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1034,
+        "screen_name": "IsioloW",
+        "following": 1034,
+        "name": "Octo P Haso",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323543322066063361/Lf9rEhsW_normal.jpg",
+        "location": "Isiolo, Kenya",
+        "betweenness": 0.0,
+        "url": "https://t.co/pWeqj59bk5"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 100,
+        "screen_name": "nbouaghaz",
+        "following": 100,
+        "name": "Nourdine CodeWorks",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317566758149099521/eKBqbX3Y_normal.jpg",
+        "location": "Paris, France",
+        "betweenness": 0.0,
+        "url": "https://t.co/iI7Efc58Rk"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 20,
+        "screen_name": "PStephenGeezaye",
+        "following": 20,
+        "name": "Prince Stephen Geezaye",
+        "location": "Monrovia, Liberia",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223240255190585347/TPlQCD0i_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 30,
+        "screen_name": "kittu936",
+        "following": 30,
+        "name": "umesh sharma",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213225865544265728/L76VyBI0_normal.jpg",
+        "location": "Estonia",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3,
+        "screen_name": "LeDjo21555598",
+        "following": 3,
+        "name": "Le Djo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330842664862887937/11Rch9WZ_normal.jpg",
+        "location": "Abidjan",
+        "betweenness": 0.0,
+        "url": "https://t.co/EIdRx8xgEh"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 91,
+        "screen_name": "itechonics_news",
+        "following": 91,
+        "name": "Itechonics News",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1310530309637668865/UvaPYJzV_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 7,
+        "screen_name": "vitormbgoncalve",
+        "following": 7,
+        "name": "Vitor Goncalves",
+        "location": "Rio Grande do Sul, Brazil",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299413469314326528/yMHFrO_L_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/52jZaRT9ao"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 6,
+        "screen_name": "Abdulazizbimany",
+        "following": 6,
+        "name": "Abdulaziz Bimany - Computer Scientist",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312859919486509058/g8pAmyfd_normal.jpg",
+        "location": "Zanzibar, Tanzania",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 36,
+        "screen_name": "zhangguoyu",
+        "following": 36,
+        "name": "zhangguoyu",
+        "location": "china",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520449457733644290/gqcyEYII_normal.jpeg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 9,
+        "screen_name": "ectrxectrx",
+        "following": 9,
+        "name": "ecey",
+        "location": "United States",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000816738638/23953df7f55221f58a0df39a7c808623_normal.jpeg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 6,
+        "screen_name": "treexix",
+        "following": 60,
+        "name": "treexix",
+        "statuses": 51,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353005327810232323/GinJOZYT_normal.jpg",
+        "location": "Templo",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 766,
+        "screen_name": "Quajo_Opoku",
+        "following": 766,
+        "name": "Urs Truly",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336124481149005824/YzBEyGUa_normal.jpg",
+        "location": "Accra",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 4,
+        "screen_name": "PurpleR2D",
+        "following": 4,
+        "name": "Liad Dadash",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328371178696826882/476gZolD_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3080,
+        "screen_name": "tkusano",
+        "following": 3080,
+        "name": "Takayuki KUSANO",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2595116676/p5ym19whvymh626i6vao_normal.jpeg",
+        "location": "Tokyo, Japan.",
+        "betweenness": 0.0,
+        "url": "https://t.co/L1h9E3xqRn"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 80,
+        "screen_name": "Me_Somenath",
+        "following": 80,
+        "name": "SOMENATH CHAKRABORTY",
+        "location": "Mississippi, USA",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074587457478258690/oTlSg1S__normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 5,
+        "screen_name": "kzone_viewer",
+        "following": 5,
+        "name": "Kevin",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 53,
+        "screen_name": "max_eckel",
+        "following": 53,
+        "name": "Max Eckel",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277230138896330752/bAQHwxRL_normal.jpg",
+        "location": "München, Bayern",
+        "betweenness": 0.0,
+        "url": "https://t.co/AlUL3NtvNb"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1884,
+        "screen_name": "BocaDev",
+        "following": 1884,
+        "name": "BocaEconomicDev",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660173445909471232/m375FlwW_normal.png",
+        "location": "Boca Raton, FL",
+        "betweenness": 0.0,
+        "url": "https://t.co/J2XN1sCkCp"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 826,
+        "screen_name": "Gamal97Mahdy",
+        "following": 826,
+        "name": "Ahmed Mahdy El Gamal",
+        "location": "Alexandria, Egypt",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305525633989083137/qFpVEdJ0_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/C7AedgT0B5"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 25,
+        "screen_name": "Stackitup13",
+        "following": 25,
+        "name": "Andre Freeman",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243957189246693376/2vQNV0SX_normal.jpg",
+        "location": "☀️",
+        "betweenness": 0.0,
+        "url": "https://t.co/wxh5nXUqad"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 158,
+        "screen_name": "jonbesga",
+        "following": 208,
+        "name": "Jon Besga",
+        "statuses": 1220,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323044585954824192/oNvEQHjL_normal.jpg",
+        "location": "London, England",
+        "betweenness": 0.0,
+        "url": "https://t.co/xBMXQU2Tyc"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 10,
+        "screen_name": "LAJUSMarcAntoin",
+        "following": 10,
+        "name": "Marc-Antoine LAJUS",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 53,
+        "screen_name": "truthin_tyagi",
+        "following": 53,
+        "name": "Sachin Tyagi",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356108704672665603/-7UVZJsb_normal.jpg",
+        "location": "Hyderabad",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 6,
+        "screen_name": "ushakov31293",
+        "following": 6,
+        "name": "Alexander Ushakov",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1366734547774296066/mL9sNCwY_normal.jpg",
+        "location": "Minsk, Belarus",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 10,
+        "screen_name": "Mucunguzielize1",
+        "following": 10,
+        "name": "Mucunguzi elizeus",
+        "location": "Ibanda",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1334503245981618182/cti5Cexz_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1149,
+        "screen_name": "JamesBaker_biol",
+        "following": 1149,
+        "name": "James",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1280873905092255747/Qnk0Ewqe_normal.jpg",
+        "location": "United Kingdom",
+        "betweenness": 0.0,
+        "url": "https://t.co/7voFqoSvmv"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 28,
+        "screen_name": "Officia14588315",
+        "following": 28,
+        "name": "Official Wisdom",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369928437603909632/4vKsn8El_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 343,
+        "screen_name": "cenk_tuysuz",
+        "following": 343,
+        "name": "Cenk Tüysüz",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210178237307015169/p_NxCZdd_normal.jpg",
+        "location": "Ankara, Türkiye",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 9,
+        "screen_name": "Diego114444",
+        "following": 9,
+        "name": "Diego",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361745415243264005/hGNs1Exq_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 60,
+        "screen_name": "shri_rework",
+        "following": 60,
+        "name": "Shrikanth Prabhu",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/929930470833262592/yRRB-Y4i_normal.jpg",
+        "location": "Manipal",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 8,
+        "screen_name": "devengx",
+        "following": 8,
+        "name": "Daniel Andres",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323185750905507840/mo9wUYtE_normal.jpg",
+        "location": "NJ",
+        "betweenness": 0.0,
+        "url": "https://t.co/E6ixWuJstz"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 460,
+        "screen_name": "Terra_Quanta",
+        "following": 460,
+        "name": "TerraQuanta",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194499767117594626/mzq-LQ1c_normal.jpg",
+        "location": "Beijing, China",
+        "betweenness": 0.0,
+        "url": "https://t.co/Ql9daoKeCR"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 222,
+        "screen_name": "Doraemo54382132",
+        "following": 222,
+        "name": "Thach Nguyen",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349536830866132994/s3nmjLUt_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 0,
+        "screen_name": "PresenceTele",
+        "following": 0,
+        "name": "Tele Presence",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 55,
+        "screen_name": "EsmailWah",
+        "following": 55,
+        "name": "Esmail Wah",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315013969845858306/2E6KFUzP_normal.jpg",
+        "location": "Syria",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 2,
+        "screen_name": "DogeGiannelli",
+        "following": 2,
+        "name": "Alessio Giannelli",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369778777446899713/la6OKQ4k_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 230,
+        "screen_name": "tony_n9t",
+        "following": 230,
+        "name": "ADJI ADJI",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343656154627497984/v3HUMhpA_normal.jpg",
+        "location": "yaoundé",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 1,
+        "import_method": "user",
+        "id_str": "1371815021265747970",
+        "created_at": "2021-03-16T13:26:02Z",
+        "id": 1371815021265747970,
+        "text": "Proud to help @educationgovuk deliver critical services across the #education sector with #Neo4jAuraEnterprise! 
+
+L… https://t.co/p0urzRAQph"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 232,
+        "screen_name": "coulston_uk",
+        "following": 232,
+        "name": "espresso",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1161006751682088960/um57TqEw_normal.jpg",
+        "location": "London",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371778287970705408",
+        "created_at": "2021-03-16T11:00:04Z",
+        "id": 1371778287970705408,
+        "text": "[Webinar] Produktdatenmanagement mit der Graphdatenbank Neo4j
+
+Donnerstag, 18. März // 11:00 CET 
+
+Register here:… https://t.co/OYvzyt2TBD"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 11,
+        "screen_name": "ToxicVijay",
+        "following": 11,
+        "name": "vijay kumar",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344587701048274944/UpYj6x6T_normal.jpg",
+        "location": "Dubai, United Arab Emirates",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 75,
+        "screen_name": "AbdulsamadSule3",
+        "following": 75,
+        "name": "Mr☄D",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252260439150530561/Q4thXftg_normal.jpg",
+        "location": "Jos, Nigeria",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 174,
+        "screen_name": "ArtemisaVm",
+        "following": 174,
+        "name": "Denisse",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1360323253143805955/4oKEh9aB_normal.jpg",
+        "location": "México",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 80,
+        "screen_name": "DsMatison",
+        "following": 80,
+        "name": "ds-steven-matison",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311309078044569601/KqgT4HNx_normal.jpg",
+        "location": "Satellite Beach, FL",
+        "betweenness": 0.0,
+        "url": "https://t.co/o0Du087w9M"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "Buffer"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "education"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "neo4jauraenterprise"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371815021265747970"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "screen_name": "educationgovuk",
+        "name": "Department for Education",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371778287970705408"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371687808847519748",
+        "created_at": "2021-03-16T05:00:33Z",
+        "id": 1371687808847519748,
+        "text": "[Webinar] Graph Data Science with #Neo4j – Italy
+
+Giovedì 17 Marzo || 10:00 CET 
+
+Register here:… https://t.co/IBADoePpiA"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 8,
+        "screen_name": "masumbillahniaz",
+        "following": 8,
+        "name": "Graphics designer",
+        "location": "Dhaka,Bangladesh",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1340102623509155841/HD5uXW5m_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/PBZCZLQzvu"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371787098945114113",
+        "created_at": "2021-03-16T11:35:05Z",
+        "id": 1371787098945114113,
+        "text": "RT @rotnroll666: Neo4j Cypher-DSL 2021.1 released in time for tomorrows Spring Data 6.1.M5 Release: https://t.co/7Uc3AL45lw
+
+QueryDSL integ…"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "neo4j"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371687808847519748"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 1,
+        "import_method": "user",
+        "id_str": "1371673079517171712",
+        "created_at": "2021-03-16T04:02:01Z",
+        "id": 1371673079517171712,
+        "text": "Discover how financial institutions can use graph technology to meet their extensive data lineage challenges.… https://t.co/FQbYr1gzpT"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371773486348255233",
+        "created_at": "2021-03-16T10:41:00Z",
+        "id": 1371773486348255233,
+        "text": "RT @ElLazal: Today at 3pm UTC @lyonwj and I are going to be recording our first live podcast, live on @twitch. We'll be discussing how we g…"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "Tweetbot for iΟS"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "http://neo4j-contrib.github.io/cypher-dsl/current/#2021.1"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 63,
+        "screen_name": "ruslandanilin",
+        "following": 63,
+        "name": "Ruslan Danilin",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635110768858370048/RWa6WbYn_normal.png",
+        "location": "Vancouver, BC, Canada",
+        "betweenness": 0.0,
+        "url": "https://t.co/cW8qYImkS3"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371672671419826177",
+        "created_at": "2021-03-16T04:00:23Z",
+        "id": 1371672671419826177,
+        "text": "[Virtual Conference] Javaland 2021 – Was macht SRE eigentlich bei Neo4j Aura
+
+Mittwoch, 17. März || 17:00 - 17:40 C… https://t.co/3iWQyMNRRP"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 4867,
+        "screen_name": "rotnroll666",
+        "following": 4867,
+        "name": "Michael Simons",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368255878714044422/smftxdbx_normal.jpg",
+        "location": "Aachen",
+        "betweenness": 0.0,
+        "url": "https://t.co/uzcOFlyiOX"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "id": 1371756686407577611
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 1,
+        "import_method": "user",
+        "id_str": "1371846247913512966",
+        "created_at": "2021-03-16T15:30:07Z",
+        "id": 1371846247913512966,
+        "text": "[Live Demo] Graph Algorithms Playground – Asia Pac Edition
+
+Wednesday, March 17 || 9:00 IST
+
+Register here:… https://t.co/RTUadCVgLS"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371748138491510786",
+        "created_at": "2021-03-16T09:00:16Z",
+        "id": 1371748138491510786,
+        "text": "CASE STUDY // Automotive Manufacturer Reduces Time to Market with an Enterprise Knowledge Graph for Unified Testing… https://t.co/r1aodaaupi"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "TweetDeck"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 335,
+        "screen_name": "ElLazal",
+        "following": 30,
+        "name": "Lju Lazarevic",
+        "statuses": 533,
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266076896644694016/d053brzD_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/le3JCTtAyq"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 2263,
+        "screen_name": "lyonwj",
+        "following": 2263,
+        "name": "William Lyon",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502931400882794496/Dy9gq9V2_normal.jpeg",
+        "betweenness": 0.0,
+        "url": "https://t.co/4RZ9dDTre2"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 2,
+        "import_method": "user",
+        "id_str": "1371627279936282624",
+        "created_at": "2021-03-16T01:00:01Z",
+        "id": 1371627279936282624,
+        "text": "[Live Demo] Graph Algorithms Playground – Asia Pac Edition
+
+Wednesday, March 17 | 9:00 IST
+
+Register here:… https://t.co/ShmE58SEof"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "screen_name": "Twitch",
+        "name": "Twitch",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "id": 1371773392370724864
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371748138491510786"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371614692528025601",
+        "created_at": "2021-03-16T00:10:00Z",
+        "id": 1371614692528025601,
+        "text": "@insideBigData features Neo4j's recently appointed VP of People, Kristin Thornby, in its latest news roundup. Link… https://t.co/XCnGFTld9M"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 11,
+        "screen_name": "Sword_France",
+        "following": 11,
+        "name": "Sword France",
+        "location": "Lyon",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359801868441026564/F-FLtCs9_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371673079517171712"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 2,
+        "import_method": "user",
+        "id_str": "1371600097105022981",
+        "created_at": "2021-03-15T23:12:00Z",
+        "id": 1371600097105022981,
+        "text": "Top 10 Use Cases: Anti-Money Laundering
+By Jim Webber
+   
+https://t.co/HBp9xVdBM0
+#AntiMoneyLaundering #GraphDatabases"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 207,
+        "screen_name": "AntalDominik",
+        "following": 207,
+        "name": "Dominik Antal",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261258913619509248/eFCeCRdL_normal.jpg",
+        "location": "Budapest, Hungary",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371846247913512966"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 3,
+        "import_method": "user",
+        "id_str": "1371597145892126720",
+        "created_at": "2021-03-15T23:00:17Z",
+        "id": 1371597145892126720,
+        "text": "[Online Workshop] Data Science &amp; Machine Learning with Neo4j – UK
+
+Thu, 18 Mar // 10:00 - 12:00 GMT
+
+Register here:… https://t.co/cZdaSm2iTb"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 18,
+        "screen_name": "amiyarocks",
+        "following": 18,
+        "name": "Amiya Sahoo",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371672671419826177"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371828856672415752",
+        "created_at": "2021-03-16T14:21:01Z",
+        "id": 1371828856672415752,
+        "text": "[Virtual Event] Connections: Graphs for Cybersecurity in APAC
+
+1 April 2021 at 9 a.m. IST | 11:30 a.m. SGT/HKT | 2:… https://t.co/xNVwykxare"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 2,
+        "import_method": "user",
+        "id_str": "1371567636404916228",
+        "created_at": "2021-03-15T21:03:01Z",
+        "id": 1371567636404916228,
+        "text": "Discover how RLE International uses Neo4j in engineering for the automotive industry
+ 
+https://t.co/Gqk7p5Ckyn
+#Automotive #GraphDatabases"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371614692528025601"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 4079,
+        "screen_name": "insideBigData",
+        "following": 21,
+        "name": "Richard Brueckner",
+        "statuses": 16897,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/474287648803020800/y3Eyl_TB_normal.png",
+        "location": "Portland, OR",
+        "betweenness": 0.0,
+        "url": "https://t.co/KSdeO8wuoB"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 1,
+        "import_method": "user",
+        "id_str": "1371525104467857416",
+        "created_at": "2021-03-15T18:14:01Z",
+        "id": 1371525104467857416,
+        "text": "Discover how graph technology helps companies with identity and access management.
+
+https://t.co/AmYUUe2yAs
+#IAM… https://t.co/2VI6KeyRy9"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "antimoneylaundering"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "graphdatabases"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://buff.ly/39Zwfui"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371499112089202694",
+        "created_at": "2021-03-15T16:30:44Z",
+        "id": 1371499112089202694,
+        "text": "RT @lyonwj: Recording a podcast episode tomorrow on how to submit, build, and present a conference presentation.
+
+What questions or topics…"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 21,
+        "screen_name": "jeffreykoller",
+        "following": 21,
+        "name": "Jeff Koller",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666118181967106048/KlPkGAOe_normal.png",
+        "location": "Tokyo, JP",
+        "betweenness": 0.0,
+        "url": "https://t.co/NnW2d4qu0m"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371828856672415752"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:146"
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371597145892126720"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:148"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 3,
+        "screen_name": "agewd",
+        "following": 3,
+        "name": "Guy Richardson",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:149"
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 1,
+        "import_method": "user",
+        "id_str": "1371494149107630088",
+        "created_at": "2021-03-15T16:11:00Z",
+        "id": 1371494149107630088,
+        "text": "Avec le lancement d’#AuraEnterprise, @Neo4j facilite l’accès des #graphes dans le #cloud en réduisant les obstacles… https://t.co/ueWRAYqTtW"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:150"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "Twitter Web App"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "id": 1371490116640776194
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:152"
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371476477267574785",
+        "created_at": "2021-03-15T15:00:47Z",
+        "id": 1371476477267574785,
+        "text": "[Virtual Conference] Javaland 2021: Neo4j 4 Java Developers 
+
+Dienstag, 16. März // 16:00 - 16:40
+
+Register today:… https://t.co/Gbr0hU5N86"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:153"
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371649975642374150",
+        "created_at": "2021-03-16T02:30:12Z",
+        "id": 1371649975642374150,
+        "text": ".@neo4j is looking for an Application Security Engineer  - Malmo (London) https://t.co/XFlLj9APXT"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:154"
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "automotive"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:155"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://buff.ly/3chVnMM"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:156"
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 1387,
+        "screen_name": "DevStartupJobs",
+        "following": 10,
+        "name": "🛠 Dev Startup Jobs",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000721477191262209/LVDIPSiN_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:157"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371598455378968579",
+        "created_at": "2021-03-15T23:05:29Z",
+        "id": 1371598455378968579,
+        "text": "New York-Presbyterian Hospital used graph data to proactively identify and contain diseases before they spread.… https://t.co/apkku2UPtN"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:158"
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 119,
+        "screen_name": "gspanoae",
+        "following": 119,
+        "name": "Gabi Spanoae",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/525717639797035008/uid2vOmN_normal.jpeg",
+        "location": "UK",
+        "betweenness": 0.0,
+        "url": "https://t.co/BCv8C3QITy"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:159"
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 158,
+        "screen_name": "datacentretimes",
+        "following": 6,
+        "name": "datacentretimes",
+        "location": "",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000245300431/a4b075e55647b772b13c95d4b903e959_normal.jpeg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:160"
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "SocialPilot.co"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:161"
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "Source"
+      ],
+      "properties": {
+        "name": "startup.jobs"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:162"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371598455378968579"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://startup.jobs/application-security-engineer-malmo-at-neo4j"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371627279936282624"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:165"
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371376428835606528",
+        "created_at": "2021-03-15T08:23:14Z",
+        "id": 1371376428835606528,
+        "text": "@neo4j What a great match: the power of a #neo4j graph database - and the benefits of clear graph visualization sho… https://t.co/JIhTTRCrX6"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:166"
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 41,
+        "screen_name": "ySebp",
+        "following": 15,
+        "name": "Sebastian Müller",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176132136081997825/ossGhLty_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:167"
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371371339634896900",
+        "created_at": "2021-03-15T08:03:00Z",
+        "id": 1371371339634896900,
+        "text": "Avec #AuraEnterprise de @Neo4j, les #DSI bénéficient d’une meilleure fiabilité pour les applications critiques, d’u… https://t.co/4JdZNcojmS"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:168"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371376428835606528"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:169"
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "iam"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:170"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371258866919432197",
+        "created_at": "2021-03-15T00:36:05Z",
+        "id": 1371258866919432197,
+        "text": "New York-Presbyterian Hospital used graph data to proactively identify and contain diseases before they spread.… https://t.co/dt6U7nVx5o"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:171"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://buff.ly/38GX9pU"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:172"
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371525104467857416"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:173"
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 99,
+        "screen_name": "cloudtimesuk",
+        "following": 5,
+        "name": "cloudtimesuk",
+        "location": "",
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:174"
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371258866919432197"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:175"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "auraenterprise"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:176"
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "graphes"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:177"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "cloud"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:178"
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371494149107630088"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:179"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371188670472941570",
+        "created_at": "2021-03-14T19:57:09Z",
+        "id": 1371188670472941570,
+        "text": "@neo4j For Creative Social Media Post 
+ORDER NOW
+https://t.co/EidJzigHW5"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:180"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 65,
+        "screen_name": "imPrasantaNayek",
+        "following": 1340,
+        "name": "Prasanta Nayek",
+        "location": "West Bengal, India",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1321313930799542272/Drb5Zihi_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:181"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 394,
+        "import_method": "user",
+        "id_str": "1361415227091292163",
+        "created_at": "2021-02-15T20:40:58Z",
+        "id": 1361415227091292163,
+        "text": "Really great application of graphs for investigative journalism. Thanks so much for sharing!! https://t.co/sgyYU5Z3zp"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:182"
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "http://bit.ly/3bKVMbG"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:183"
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371476477267574785"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:184"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 72,
+        "import_method": "user",
+        "id_str": "1362366837011398657",
+        "created_at": "2021-02-18T11:42:20Z",
+        "id": 1362366837011398657,
+        "text": "#NODES2021 is coming, and we want to hear about your #Neo4j graph story. 
+
+Built a new connector? Developed a conne… https://t.co/CSEfhO00q7"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:185"
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "Hashtag"
+      ],
+      "properties": {
+        "name": "dsi"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:186"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Link"
+      ],
+      "properties": {
+        "url": "https://twitter.com/i/web/status/1371371339634896900"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 55,
+        "screen_name": "Sneha_Das19",
+        "following": 55,
+        "name": "Sneha Das",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628638092094627841/Rb6eg3Ki_normal.jpg",
+        "location": "London, England",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:188"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 25,
+        "screen_name": "OvedItay",
+        "following": 25,
+        "name": "Itay",
+        "location": "Israel",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351882932894498821/MzZFV9hg_normal.jpg",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:189"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 637,
+        "screen_name": "OafToBark23",
+        "following": 637,
+        "name": "Edwin Puertas",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214397684116860928/HRWow_7e_normal.jpg",
+        "location": "Cartagena, Colombia",
+        "betweenness": 0.0,
+        "url": "https://t.co/4LMkUdoILa"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:190"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 188,
+        "screen_name": "isabelalefol",
+        "following": 188,
+        "name": "isa",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239561644038066177/vDcU4po6_normal.jpg",
+        "location": "Goiânia, Brasil",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:191"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 65,
+        "screen_name": "yorgomoubayed",
+        "following": 65,
+        "name": "Yorgo EL MOUBAYED",
+        "location": "Grenoble, France",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215288192330600448/EYWYOz-I_normal.jpg",
+        "betweenness": 0.0,
+        "url": "https://t.co/l57qh0pm0q"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:192"
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 395,
+        "screen_name": "MrWMENDEZ",
+        "following": 395,
+        "name": "William  Méndez",
+        "location": "Norðimbraland",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3504403270/6a634089c1075ff76f41db4a79a3ec46_normal.jpeg",
+        "betweenness": 0.0,
+        "url": "https://t.co/F3XXY21JfA"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:193"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 228,
+        "screen_name": "thepeters77",
+        "following": 228,
+        "name": "The Peters Real Estate",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013732557375070210/RJehOMOz_normal.jpg",
+        "location": "Lagos, Nigeria",
+        "betweenness": 0.0,
+        "url": "https://t.co/Y835lvlFpf"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 6,
+        "screen_name": "noellematech",
+        "following": 6,
+        "name": "Noellematech",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328271394619142146/v404jf0b_normal.jpg",
+        "location": "Dar es Salaam, Tanzania",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:195"
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 36,
+        "screen_name": "BouassidaYosri",
+        "following": 36,
+        "name": "Yosri Bouassida",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358171730485923842/j2nyOHGP_normal.jpg",
+        "location": "",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:197"
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 139,
+        "screen_name": "matincodes",
+        "following": 139,
+        "name": "Abdulmatin",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232041148396515328/9xH_jw-r_normal.jpg",
+        "location": "",
+        "betweenness": 0.0,
+        "url": "https://t.co/MaRIF4i1VT"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:198"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 127,
+        "screen_name": "nditah_sammy",
+        "following": 127,
+        "name": "Nditah Samweld 🦀🧢",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297100679920717830/Ae5318HU_normal.jpg",
+        "location": "Nigeria",
+        "betweenness": 0.0,
+        "url": "https://t.co/W6PHo34HQ0"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:200"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "followers": 159,
+        "screen_name": "JuliaANeagu",
+        "following": 159,
+        "name": "Julia Neagu",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224862341214482433/48B8N2bV_normal.jpg",
+        "location": "Boston, MA",
+        "betweenness": 0.0
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:201"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "Tweet"
+      ],
+      "properties": {
+        "favorites": 0,
+        "import_method": "user",
+        "id_str": "1371117204519944195",
+        "created_at": "2021-03-14T15:13:10Z",
+        "id": 1371117204519944195,
+        "text": "@BenFerrum @runtcpip @smartecocity @net_science @dnds_ceu @egovacademy @mmbronstein @barabasi @neo4j There’s been a… https://t.co/CHJA1wSgVc"
+      },
+      "elementId": "4:b54c762a-3c2e-4ed3-9ad8-f716f152b723:203"
+    }
+  }
+]
