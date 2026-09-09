@@ -1,0 +1,11 @@
+rule,support,coverage,confidence
+Movies with required associations,38,1.0,1.0
+Impartiality of reviews,9,1.0,1.0
+No self-following,3,1.0,1.0
+Temporal consistency of involvements,240,0.995850622406639,0.995850622406639
+Chronological movie production,0,0.0,0.0
+No multiple roles of the same type,241,1.0,1.0
+Unique title and release year,38,1.0,1.0
+Actor Birth After Release,171,0.9942,0.9942
+Movies with at least one Review,6,0.1578,0.1578
+Review after the movie's release date,0,0.0,0.0

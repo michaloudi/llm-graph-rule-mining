@@ -1,0 +1,6 @@
+rule,support,coverage,confidence
+Valid Acting Relationships,171,0.9942,0.9942
+Single Birth Year,128,0.9624,0.9624
+Valid Director/Producer/Writer,69,1.0,1.0
+Consistent Movie Release Date,38,1.0,1.0
+No Directing and Acting Overlap,210,0.9722,0.9722
