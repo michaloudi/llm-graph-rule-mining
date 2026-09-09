@@ -3,3 +3,4 @@ neo4j
 networkx
 pandas
 matplotlib
+python-dotenv
