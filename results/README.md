@@ -6,7 +6,7 @@ This directory contains compact tabular summaries of evaluation values explicitl
 
 - `movies_schema_rule_metrics.csv` — support, coverage, and confidence values used in the Movies schema evaluation plots.
 - `movies_incident_rule_metrics.csv` — support, coverage, and confidence values used in the later Movies graph-instance evaluation plots.
+- `twitter_schema_rule_metrics.csv` contains 19 Twitter schema-level rules.
+- `twitter_data_rule_metrics.csv` contains 16 Twitter graph-data / graph-instance rules.
 
-The CSV files reproduce values already stored in the notebook; they are not newly generated measurements.
-
-Twitter result tables are not added here yet because the current notebook should be checked rule-by-rule before exporting a consolidated table.
+In the thesis discussion, some schema-level rules could not be validated because the corresponding relationship or feature was absent from the graph model.
