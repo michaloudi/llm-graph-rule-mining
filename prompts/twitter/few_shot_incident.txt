@@ -1,0 +1,18 @@
+Every Tweet has a unique ID.
+An example of this is:
+User name Alice (alice123) posts Tweet text: "Hello world!" with ID: 1
+and User name Bob (bob456) posts Tweet text: "Excited about the new project!" with ID: 2
+
+Each Tweet must have an associated creation timestamp and text.
+An example of this is:
+User name NASA (nasapresevere) posts Tweet text:
+"Exploring new frontiers in space with the help of advanced technology."
+created at: 2024-01-02T10:00:00Z.
+User name Neo4j (neo4j) posts Tweet text: "" created at: 2024-01-02T11:00:00Z.
+
+Every Tweet must be posted by a user.
+An example of this is:
+User name John (john_doe) posts Tweet text: "Just had a great lunch!" with ID: 6 created at: 2024-01-03T12:30:00Z.
+User name Jane (jane_doe) posts Tweet text: "Enjoying the sunshine!" with ID: 7 created at: 2024-01-03T12:45:00Z.
+
+Based on these examples, can you generate some other relevant consistency rules that could be detected in the relationships and interactions within this Twitter graph?

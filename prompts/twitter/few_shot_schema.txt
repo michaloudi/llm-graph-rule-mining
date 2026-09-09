@@ -1,0 +1,6 @@
+Some examples of existing consistency rules are:
+Users cannot follow themselves.
+If a Tweet mentions a User, the User must follow the person who posted the Tweet.
+An example of this is: Every Tweet must be posted by a user.
+
+Based on these examples, can you generate some other relevant consistency rules that could be detected in the relationships and interactions within this Twitter graph?

@@ -1,0 +1,4 @@
+Given the following consistency rules:
+{consistency_rules}
+
+Please provide Cypher queries to detect them in the graph database.

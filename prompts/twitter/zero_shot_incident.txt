@@ -1,0 +1,4 @@
+The encoded graph is as follows:
+{chunk}
+
+Can you generate some consistency rules that could be detected in the relationships and interactions within this Twitter graph?
