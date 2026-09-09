@@ -1,0 +1,44 @@
+{
+    "nodes": [
+        {
+            "id": "Movie",
+            "type": "Entity"
+        },
+        {
+            "id": "Person",
+            "type": "Person"
+        }
+    ],
+    "edges": [
+        {
+            "source": "Person",
+            "target": "Movie",
+            "relation": "REVIEWED"
+        },
+        {
+            "source": "Person",
+            "target": "Movie",
+            "relation": "ACTED_IN"
+        },
+        {
+            "source": "Person",
+            "target": "Movie",
+            "relation": "PRODUCED"
+        },
+        {
+            "source": "Person",
+            "target": "Movie",
+            "relation": "WROTE"
+        },
+        {
+            "source": "Person",
+            "target": "Movie",
+            "relation": "DIRECTED"
+        },
+        {
+            "source": "Person",
+            "target": "Person",
+            "relation": "FOLLOWS"
+        }
+    ]
+}
